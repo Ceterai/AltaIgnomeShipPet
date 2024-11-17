@@ -1,9 +1,11 @@
 {
-  "author": "Ceterai",
-  "description": "A small mod that replaces alta ship pet drones with ignomes - mysterious ethereal creatures, attracted to energy.\n\nCurrently includes 18 variations (check the screenshots).\n\nRequires My Enternia to function.\n\nThat's it.",
-  "friendlyName": "Alta Ship Pet - Ignome",
-  "name": "AltaIgnomeShipPet",
-  "includes": [ "my_enternia", "MyEnternia", "My Enternia" ],
-  "tags": "User Interface",
-  "version": "1.0"
+  "author" : "Ceterai",
+  "description" : "A small mod that replaces alta ship pet drones with ignomes - mysterious ethereal creatures, attracted to energy.\n\nCurrently includes 18 variations (check the screenshots).\n\nRequires My Enternia to function.\n\nThat's it.",
+  "friendlyName" : "Alta Ship Pet - Ignome",
+  "includes" : ["my_enternia", "MyEnternia", "My Enternia"],
+  "link" : "steam://url/CommunityFilePage/3359794533",
+  "name" : "AltaIgnomeShipPet",
+  "steamContentId" : "3359794533",
+  "tags" : "NPCs and Creatures|Ships",
+  "version" : "1.0"
 }
