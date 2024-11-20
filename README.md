@@ -1,7 +1,9 @@
 # Alta Ship Pet - Ignome
 
 <div align="center" style="font-size: 150%;">
-<a class="ct_button" href="https://ceterai.github.io/MyEnternia/Mods/AltaIgnomeShipPet">WEBSITE</a> | <a class="ct_button" href="https://github.com/Ceterai/AltaIgnomeShipPet">GITHUB</a> | <a class="ct_button" href="https://steamcommunity.com/sharedfiles/filedetails/?id=3359794533">STEAM</a> | <a class="ct_button" href="https://community.playstarbound.com/resources/alta-ship-pet-ignome.6326/">SB FORUMS</a> | <a class="ct_button" href="https://buymeacoffee.com/ceterai">DONATE</a> | <a class="ct_button" href="https://discord.gg/gGEwZ5vbgr">DISCORD</a>
+<a class="ct_button" href="https://ceterai.github.io/MyEnternia/Mods/AltaIgnomeShipPet">WEBSITE</a> | <a class="ct_button" href="https://github.com/Ceterai/AltaIgnomeShipPet">GITHUB</a> | <a class="ct_button" href="https://steamcommunity.com/sharedfiles/filedetails/?id=3359794533">STEAM</a> | <a class="ct_button" href="https://community.playstarbound.com/resources/alta-ship-pet-ignome.6326/">SB FORUMS</a>
+
+<a class="ct_button" href="https://buymeacoffee.com/ceterai">DONATE</a> | <a class="ct_button" href="https://discord.gg/gGEwZ5vbgr">DISCORD</a>
 </div>
 
 A small mod that replaces alta ship pet drones with ignomes - mysterious ethereal creatures, attracted to energy.
@@ -14,7 +16,7 @@ That's it.
 
 Also checkout:
 
-<div align="center">
+<div align="center" markdown="1">
 
 [![ ](https://raw.githubusercontent.com/Ceterai/AltaNarfinShipPet/refs/heads/main/.meta/logo_96.png)](https://github.com/Ceterai/AltaNarfinShipPet)
 [![ ](https://raw.githubusercontent.com/Ceterai/AltaSnuggetShipPet/refs/heads/main/.meta/logo_96.png)](https://github.com/Ceterai/AltaSnuggetShipPet)
